@@ -1,0 +1,15 @@
+===========================================================================
+BIOS Name:	[BIOX0156.bin]		(based on [UPADAM17.bin])
+Checksum:	[32.0]MB:[C882]h
+         	[10.0]MB:[D88C]h for recovery
+Sign-on Message:
+		UP-ADLN01 (BIOX0156)(11/17/2023)
+
+Changes:
+	1. (Type 0) BIOS Information - set "BIOS Version" to "BIOX0156"
+	2. (Type 0) BIOS Information - set "BIOS Release Date" to "11/17/2023"
+	3. Logo changed to "20231012095031.jpg"
+
+Remark:
+	
+===========================================================================

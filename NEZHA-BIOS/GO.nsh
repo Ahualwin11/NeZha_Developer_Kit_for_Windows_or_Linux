@@ -1,0 +1,1 @@
+AfuEfix64.efi UP-ADLN01_UPADAM17_BIOX0156.bin /P /N /B /ME /RLC:M
