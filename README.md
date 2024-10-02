@@ -1,0 +1,2 @@
+# NeZha_Developer_Kit_for_Windows_or_Linux
+哪吒开发套件介绍以及Windows、Linux系统安装、开发板资源分享
